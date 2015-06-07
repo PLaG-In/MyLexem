@@ -1,0 +1,6 @@
+int INT
+float FLOAT
+double DOUBLE
+char CHAR
+short SHORT
+long LONG

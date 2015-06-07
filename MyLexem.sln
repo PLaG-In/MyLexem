@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyLexem", "D:\Garou\GitHub\MyLexem\MyLexem\MyLexem.vcxproj", "{C349FB95-FEB8-4061-8F27-26E5A34436A4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tests", "D:\Garou\GitHub\MyLexem\tests\tests.vcxproj", "{16CF34D6-69BA-4981-8C1D-E066027089E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C349FB95-FEB8-4061-8F27-26E5A34436A4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C349FB95-FEB8-4061-8F27-26E5A34436A4}.Debug|Win32.Build.0 = Debug|Win32
+		{C349FB95-FEB8-4061-8F27-26E5A34436A4}.Release|Win32.ActiveCfg = Release|Win32
+		{C349FB95-FEB8-4061-8F27-26E5A34436A4}.Release|Win32.Build.0 = Release|Win32
+		{16CF34D6-69BA-4981-8C1D-E066027089E1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{16CF34D6-69BA-4981-8C1D-E066027089E1}.Debug|Win32.Build.0 = Debug|Win32
+		{16CF34D6-69BA-4981-8C1D-E066027089E1}.Release|Win32.ActiveCfg = Release|Win32
+		{16CF34D6-69BA-4981-8C1D-E066027089E1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
